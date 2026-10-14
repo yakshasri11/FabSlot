@@ -93,3 +93,5 @@ This project was built from scratch as an original implementation. It uses
 different entity design (`Member`/`Machine`/`Booking`/`UsageLog`), package
 naming (`com.fabslot.*`), and authentication approach (stateless JWT) than any
 reference/starter project it was inspired by.
+
+**Live demo:** https://fabslot.vercel.app/
